@@ -4,3 +4,4 @@ Programming Examples from Chapter 12 of from C++ Programming: From Problem Analy
 **CH12EX04** This program illustrates how pointers work with class member functions.  
 **CH12EX05** This program shows how to use the operators new and delete.  
 **CH12EX07** This program shows how to use dynamic two-dimensional arrays.  
+**CH12EX08** This program illustrates how to include the copy constructor in a class and how it works.  
