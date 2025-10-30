@@ -1,4 +1,3 @@
-
 #include "ptrMemberVarType.h"
 
 using namespace std;
