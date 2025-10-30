@@ -18,7 +18,7 @@ int main() //Line 5
 
     cout << "Line 13: Radius = " << *radiusPtr
         << ", area = "
-        << PI * (*radiusPtr) * (*radiusPtr) << endl; //Line 13\
+        << PI * (*radiusPtr) * (*radiusPtr) << endl; //Line 13
     cout << "Line 14: Enter the radius: "; //Line 14
     cin >> *radiusPtr; //Line 15
     cout << endl; //Line 16
